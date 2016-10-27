@@ -18,7 +18,7 @@ function translate(toTranslate) {
 
 function getSourceLanguage(toTranslate) {
 	// if source not Japanese set to unknown
-	return nihongo.isJapanese(toTranslate) ? "ja" : "";
+	return nihongo.hasJapanese(toTranslate) ? "ja" : "";
 }
 
 

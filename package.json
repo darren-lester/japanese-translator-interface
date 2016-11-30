@@ -1,6 +1,6 @@
 {
   "name": "japanese-translator-interface",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A promise-based interface to a translator web service for Japanese translation",
   "main": "index.js",
   "scripts": {

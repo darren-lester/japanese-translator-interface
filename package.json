@@ -16,7 +16,7 @@
     "web",
     "service"
   ],
-  "author": "Darren Lester <dsslester@gmail.com>",
+  "author": "Darren Lester <dsslester@gmail.com> (http://www.darrenlester.com)",
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.4.6",

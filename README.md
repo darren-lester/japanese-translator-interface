@@ -1,4 +1,4 @@
-#japanese-translator-interface
+# japanese-translator-interface
 A promise-based interface to a translator web service for Japanese translation
 
 The web service must be set as the environment variable *TRANSLATOR* and respond to HTTP
